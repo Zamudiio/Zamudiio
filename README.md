@@ -37,28 +37,28 @@ Me gradue de la facultad, y segui investigando mas tecnologias, y en diciembre d
 		</thead>
 		<tbody>
 			<tr>
-				<td> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" width=30></td>
+				<td> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" width=30 title="Dart"></td>
  			</tr>
       <tr>
-				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=30> </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=30 title="JavaScript" > </td>
 			</tr>
       <tr>
-				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=30> </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=30 title="Python"> </td>
 			</tr>
 			<tr>
-				<td> <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width=30> </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width=30 title="React"> </td>
 			</tr>
 			<tr>
-				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width=30> </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width=30 title="NodeJS"> </td>
 			</tr>
       <tr>
-				<td> <img src="https://vectorified.com/images/express-js-icon-20.png" width=30> </td>
+				<td> <img src="https://vectorified.com/images/express-js-icon-20.png" width=30 title="Express"> </td>
 			</tr>
 			<tr>
-				<td> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=30> </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=30 title="Java"> </td>
 			</tr>
       <tr>
-				<td> <img src="https://cdn.onlinewebfonts.com/svg/img_238853.png" width=30> </td>
+				<td> <img src="https://cdn.onlinewebfonts.com/svg/img_238853.png" width=30 title="SocketIO"> </td>
 			</tr>
 		</tbody>
 	</table>
