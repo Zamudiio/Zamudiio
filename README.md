@@ -32,47 +32,39 @@ Me gradue de la facultad, y segui investigando mas tecnologias, y en diciembre d
 		<thead>
 			<tr>
 				<th> Lenguaje/ Herramienta 🧑🏻‍💻</th>
-        <th> Aprendizaje 📊 </th>
 			</tr>
 		</thead>
 		<tbody>
-      <tr>
-				<td> Javascript </td>
-        <td> 50% </td>
-			</tr>
-      <tr>
-				<td> Python </td>
-        <td> 20% </td>
-			</tr>
 			<tr>
-				<td> React </td>
-        <td> 30% </td>
-			</tr>
-			<tr>
-				<td> Nodejs </td>
-        <td> 50% </td>
+				<td> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" width=30></td>
+ 			</tr>
+      <tr>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width=30> </td>
 			</tr>
       <tr>
-				<td> Express </td>
-        <td> 40% </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width=30> </td>
 			</tr>
 			<tr>
-				<td> Vite </td>
-        <td> 30% </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width=30> </td>
 			</tr>
 			<tr>
-				<td> Java </td>
-        <td> 20% </td>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width=30> </td>
 			</tr>
       <tr>
-				<td> SocketIO </td>
-        <td> 20% </td>
+				<td> <img src="https://vectorified.com/images/express-js-icon-20.png" width=30> </td>
+			</tr>
+			<tr>
+				<td> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width=30> </td>
+			</tr>
+      <tr>
+				<td> <img src="https://cdn.onlinewebfonts.com/svg/img_238853.png" width=30> </td>
 			</tr>
 		</tbody>
 	</table>
 
 ## Mis Areas Fuertes 💪🏼:
 - Desarrollo Movil 🤳🏻.
+- Desarrollo Desktop 🖥.
 - Front-End 🏕.
 - Reactividad 🚀.
 
