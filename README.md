@@ -2,6 +2,7 @@
 
 # __Desarrollador de Software Jr.<br>__
 ![image](https://pbs.twimg.com/profile_banners/1215252397175361536/1680803916/1500x500)
+[![twitter](https://img.shields.io/twitter/follow/_squirreldev?style=social)](https://twitter.com/_squirreldev)
 
 ## __About Me:<br>__
 
