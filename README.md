@@ -63,5 +63,5 @@ Me gradue de la facultad, y segui investigando mas tecnologias, y en diciembre d
 
 ## ¿Que quiero aprender? 🤓
 - IA 🤖.
-- React 🧬. 
+- Frameworks para desarrollo web 🖥. 
 - Git 🐈‍⬛.
